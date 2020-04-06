@@ -1,4 +1,4 @@
-package visitor;
+package visitorWithLambda;
 
 import java.util.function.Function;
 
